@@ -2,7 +2,7 @@
 ---
 # **ENSET-MOHAMMEDIA**
 
-## **Département Génie Informatique**
+## **Département Math Info**
 
 ### **Module :** Architecture JEE et Middleware
 
