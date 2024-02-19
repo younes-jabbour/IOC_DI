@@ -16,7 +16,7 @@ Activité Pratique N°1 - <u> Inversion de contrôle et Injection des dépendanc
 <br>
 
 ### **Professeur :**
-- **M. Youssfi Mohemmed**
+- **M. Youssfi Mohammed**
 
 ### **Réalisé par :**
 - **Younes JABBOUR**
@@ -46,7 +46,7 @@ public interface IDao {
 }
 ```
 
-2. **Créer une implémentation de cette interface **
+2. **Créer une implémentation de cette interface**
 
 ```java
 public class DaoImpl implements IDao {
@@ -58,7 +58,7 @@ public class DaoImpl implements IDao {
 }
 ```
 
-3. ** Créer l'interface IMetier avec une méthode calcul**
+3. **Créer l'interface IMetier avec une méthode calcul**
 
 ```java
 public interface IMetier {
